@@ -33,3 +33,4 @@
 1. Tanpa Semaphore: Konflik terjadi saat tugas mengakses sumber daya bersama.
 2. Dengan Semaphore: Konflik dapat dihindari, karena hanya satu tugas yang dapat mengakses sumber daya dalam satu waktu.
 ## Hasil Percobaan
+https://github.com/user-attachments/assets/f0dea90e-78b0-46b9-94c5-4fdaeb6a1099
